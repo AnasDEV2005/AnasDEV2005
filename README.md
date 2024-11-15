@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Aspiring Data Eng.<br>Learning Rust (and maybe C++)<br>Im okay at Python<br>Planning to write a game<br>I use Arch btw
+<p align="center">
+🔷 Aspiring Data Eng.<br>
+🔷 Learning Rust (and maybe C++)<br>
+🔷 Im okay at Python<br>
+🔷 Planning to write a game
+🔷 I use Arch btw, on <a href="https://discord.com/users/714150663147356212">Discord</a>. 🔷<br>
+</p>
+
 ---
 <p align="center">
     <img src="https://img.shields.io/badge/OS-Arch-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
