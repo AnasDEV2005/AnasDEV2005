@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://img.shields.io/badge/OS-Arch-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
     <img src="https://img.shields.io/badge/WM-Hyprland-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
-    <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
+    <img src="https://img.shields.io/badge/Editor-NVIM-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
     <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logoColor=white&color=darkcyan" /><br>
     <img src="https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logoColor=white&color=blue" />
     <img src="https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logoColor=white&color=blue" />
