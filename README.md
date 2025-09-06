@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I lost access to this account (got locked out because of 2FA issue) so I moved to @el-lob0
+## So all repos here are owned by me @el-lob0
 
 # 💫 About Me:
 <p align="center">
